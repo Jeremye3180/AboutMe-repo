@@ -5,10 +5,10 @@ My email is : jeremye3180@hsat.org
 ---
 # Favorite things to do-  
 1.  Play Video Games 
-* -street Fighter
-* - Megaman
-* -Pokemon
- * Pikachu
 2.  Watch Tv
 3.  Sleep
-
+Favorite games  
+* street Fighter
+* Megaman
+* Pokemon
+ * Pikachu
