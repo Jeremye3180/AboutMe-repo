@@ -2,10 +2,10 @@
 My email is : jeremye3180@hsat.org
 ## School HSTAT
  Favorite games  
-* street Fighter
-* Megaman
-* Pokemon
- * Pikachu
+1. street Fighter 
+2. Megaman 
+3.  Pokemon 
+4. Pikachu 
  
 ---
 # Favorite things to do  
